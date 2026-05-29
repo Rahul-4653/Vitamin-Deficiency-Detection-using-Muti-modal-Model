@@ -15,3 +15,6 @@ Input Flow:
 User uploads image / inputs symptoms
 Each model processes input independently
 Final output generated in application layer
+
+Disclaimer
+This project is developed for educational and research purposes only. It is not intended to replace professional medical diagnosis or treatment.
